@@ -1,0 +1,10 @@
+Bài 3. Xây dựng chương trình làm việc với các điểm trong không gian 2 chiều
+Thuộc tính:
+	       private double x; //Hoành độ
+       private double y; //Tung độ
+Các phương thức
+Hàm tạo không tham số: khởi tạo điểm toạ độ (0,0)
+Hàm tạo 2 tham số x, y: khởi tạo điểm có toạ độ (x,y)
+Nhập toạ độ
+In toạ độ điểm ra màn hình
+Tính khoảng cách giữa 2 điểm
